@@ -1,9 +1,5 @@
-# Build directories
-build/
-bin/
-
-# Standard compiled file extensions
-*.exe
-*.out
-*.o
-*.obj
+# Ignore all files except C++ source files
+*
+!*/
+!*.cpp
+!*.c++
