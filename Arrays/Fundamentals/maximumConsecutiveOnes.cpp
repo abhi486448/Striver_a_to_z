@@ -50,4 +50,4 @@ int main(){
 // points to note:-
 // - check if the given array is empty
 // - check if the given array only contain 0s
-// - update count in the case of lase element is 1 and temp is > then count
+// - update count in the case of last element is 1 and temp is > then count
