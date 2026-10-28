@@ -92,6 +92,6 @@ int main(){
 }
 
 // note:- 
-// - in new_arr there will be union of nums1 and nums2 that means all elements of nums1 ant nums2 but unique and sorted
+// - in new_arr there will be union of nums1 and nums2 that means all elements of nums1 and nums2 but unique and sorted
 // dont forget edg cases like unique elements{ if both array have same element then push one of them and then increment pointer of both array }
 // but before pushing any element we have to check whether that that element already exist in the new_arr or not
